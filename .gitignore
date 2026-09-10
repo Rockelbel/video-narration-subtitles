@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/
+
+# Temporary rendering artifacts
+tmp/
+temp/
+work/
+frames/
+audio_segments/
+subtitle_layers/
+
+# Source and rendered media are ignored to avoid publishing private recordings.
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.srt
+*.ass
+*.vtt
